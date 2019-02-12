@@ -1,3 +1,2 @@
-print('hi git')
-
-print('new git')
+def hi_there():
+    print('hi')
